@@ -1,4 +1,4 @@
-# my-project
+# Patent-Dashboard
 
 ## Project setup
 ```
